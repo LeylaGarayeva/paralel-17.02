@@ -1,0 +1,10 @@
+C:\Users\P502\Desktop\task\paralelfor_17.02\paralelfor_17.02\bin\Debug\paralelfor_17.02.exe.config
+C:\Users\P502\Desktop\task\paralelfor_17.02\paralelfor_17.02\bin\Debug\paralelfor_17.02.exe
+C:\Users\P502\Desktop\task\paralelfor_17.02\paralelfor_17.02\bin\Debug\paralelfor_17.02.pdb
+C:\Users\P502\Desktop\task\paralelfor_17.02\paralelfor_17.02\obj\Debug\paralelfor_17.02.csprojResolveAssemblyReference.cache
+C:\Users\P502\Desktop\task\paralelfor_17.02\paralelfor_17.02\obj\Debug\paralelfor_17._02.Form1.resources
+C:\Users\P502\Desktop\task\paralelfor_17.02\paralelfor_17.02\obj\Debug\paralelfor_17._02.Properties.Resources.resources
+C:\Users\P502\Desktop\task\paralelfor_17.02\paralelfor_17.02\obj\Debug\paralelfor_17.02.csproj.GenerateResource.Cache
+C:\Users\P502\Desktop\task\paralelfor_17.02\paralelfor_17.02\obj\Debug\paralelfor_17.02.csproj.CoreCompileInputs.cache
+C:\Users\P502\Desktop\task\paralelfor_17.02\paralelfor_17.02\obj\Debug\paralelfor_17.02.exe
+C:\Users\P502\Desktop\task\paralelfor_17.02\paralelfor_17.02\obj\Debug\paralelfor_17.02.pdb
